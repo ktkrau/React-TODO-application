@@ -21,7 +21,7 @@
   body {
     background: linear-gradient(
       90deg,
-      rgba(48, 16, 255, 1) 0%,
+      rgba(102, 93, 194) 0%,
       rgba(100, 115, 255, 1) 100%
     );
   }
@@ -78,7 +78,7 @@
     outline: none;
     background: linear-gradient(
       90deg,
-      rgba(17, 122, 255, 1) 0%,
+      rgba(102, 93, 194) 20%,
       rgba(20, 159, 255, 1) 100%
     );
     color: white;
@@ -99,8 +99,9 @@
     color: white;
     background: linear-gradient(
       90deg,
-      rgba(20, 159, 255, 1) 0%,
-      rgba(17, 122, 255, 1) 100%
+      rgba(102, 93, 194) 0%,
+      rgba(20, 159, 255, 1) 100%
+      
     );
     padding: 16px;
     border-radius: 5px;
